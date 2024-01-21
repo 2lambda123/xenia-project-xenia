@@ -17,4 +17,3 @@ test_vspltisb_4_GEN:
   vspltisb v1, 7
   blr
   #_ REGISTER_OUT v1 [07070707, 07070707, 07070707, 07070707]
-

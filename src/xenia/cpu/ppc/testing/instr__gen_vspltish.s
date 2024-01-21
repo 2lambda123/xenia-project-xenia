@@ -17,4 +17,3 @@ test_vspltish_4_GEN:
   vspltish v1, 7
   blr
   #_ REGISTER_OUT v1 [00070007, 00070007, 00070007, 00070007]
-

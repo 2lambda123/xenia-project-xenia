@@ -17,4 +17,3 @@ test_vspltisw_4_GEN:
   vspltisw v1, 7
   blr
   #_ REGISTER_OUT v1 [00000007, 00000007, 00000007, 00000007]
-
